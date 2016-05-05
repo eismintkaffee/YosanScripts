@@ -1,1 +1,1 @@
-#Script from AME Capstone Project
+# Scripts from AME Capstone Project
